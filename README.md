@@ -1,55 +1,32 @@
-<h1>Alonso >:3 <br/><a href="https://github.com/McSpankies">Ingeniero y entusiasta de Malteadas</a>
+<h1>Alonso Javier Vázquez León <br/><a href="https://github.com/McSpankies">Ingeniero y entusiasta de Malteadas</a>
 
 <h2> ψ(._. )> Participaciones:</h2>
 <h3> /ᐠ｡ꞈ｡ᐟ\</h3>
   
-- <b>Motogarage</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Diseño de Motogarage</b>
+  - [Modelado en 3D, selección de materiales y componentes](https://github.com/McSpankies)
 - <b>Relevado de Esfuerzos</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PiCar Seguidor de línea con visión</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Trabajo con Node Red, PLCs, HMIs y Raspberry](https://github.com/McSpankies)
+- <b>Celda de Manufactrua</b>
+  - [Programación de PLCs](https://github.com/McSpankies)
+  - [Programación de robots ABB](https://github.com/McSpankies)
+  - [Programación de robots UR5](https://github.com/McSpankies)
+  - [Automatización de procesos](https://github.com/McSpankies)
 - <b>Smart Factory</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Celda de Manufactura</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Sistemas de visión y reconocimiento de elementos](https://github.com/McSpankies)
+  - [Programación de robots WlKata con python](https://github.com/McSpankies)
+  - [Comunicación MQTT de Python a Raspberry](https://github.com/McSpankies)
+- <b>Projectos con Jet Racesrs y Mbots</b>
+  - [Programación de sistemas de visión y detección de caminos](https://github.com/McSpankies)
+  - [Desarrollo de cursos didácticos de programación básica](https://github.com/McSpankies)
+  - [Programación de sistemas castigo/recompensa](https://github.com/McSpankies)
 
 <h2>📺 Proyectos Personales</h2>
 
 - [Trabajo con Fischerteknik](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Guantes Realidad Virtual](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Desarrollo de videojuegos](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Construcción de Impresora 3D](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Modelado en 3D (Solid Works y Blender)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
-
+<h2> Más información por llegar.</h2>
 <!--
-*joshmadakor1/joshmadakor1* is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
