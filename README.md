@@ -1,9 +1,8 @@
-<h1>Alonso Javier Vázquez León <br/><a href="https://github.com/McSpankies">Ingeniero y entusiasta de Malteadas</a>
-
+<h1>Alonso Javier Vázquez León <br/><a href="https://github.com/McSpankies">Ingeniero Mecatrónico y Entusiasta de Malteadas</a>
 <h2> "For many of us, the road is a difficult one, but the path is always there for us to follow, no matter how many times we may fall."  
        - Joshua Graham</h2>
-<h3> ψ(._. )> Participaciones:</h3>
-<h4> /ᐠ｡ꞈ｡ᐟ\</h3>
+<h3> Participaciones:</h3>
+<h4> /ᐠ｡ꞈ｡ᐟ\</h4>
   
 - <b>Diseño de Motogarage</b>
   - [Modelado en 3D, selección de materiales y componentes](https://github.com/McSpankies)
@@ -30,5 +29,6 @@
 - [Construcción de Impresora 3D](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Modelado en 3D (Solid Works y Blender)](https://www.youtube.com/watch?v=OfvdQeh79s0)
 
-<h2> Más información por llegar.</h2>
+<h2> Más información por llegar.
+/ᐠ｡ꞈ｡ᐟ\</h2>
 <!--
