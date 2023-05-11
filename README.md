@@ -24,11 +24,15 @@
 
 <h2>📺 Proyectos Personales</h2>
 
-- [Trabajo con Fischerteknik](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Desarrollo de videojuegos](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [Construcción de Impresora 3D](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Modelado en 3D (Solid Works y Blender)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- Trabajo con Fischerteknik
+- Desarrollo de videojuegos
+- Construcción de Impresora 3D
+- Modelado en 3D (Solid Works y Blender)
 
-<h2> Más información por llegar.
-/ᐠ｡ꞈ｡ᐟ\</h2>
+<h3> Contacto:</h3>
+       
+- A01734891@tec.mx
+- (Cel.) 2224930919
+       
+<h4>/ᐠ｡ꞈ｡ᐟ\</h4>
 <!--
