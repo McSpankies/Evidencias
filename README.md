@@ -35,6 +35,7 @@
 - (Cel.) +52 2224930919
 - alojav.vazleo@gmail.com
 - alonso.vazquez2134@gmail.com
+- [linkedin]: https://linkedin.com/in/alonso-javier-vazquez-leon-8365022bb/
        
 <h4>/ᐠ｡ꞈ｡ᐟ\</h4>
 <!--
