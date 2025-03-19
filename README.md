@@ -32,7 +32,9 @@
 <h3> Contacto:</h3>
        
 - A01734891@tec.mx
-- (Cel.) 2224930919
+- (Cel.) +52 2224930919
+- alojav.vazleo@gmail.com
+- alonso.vazquez2134@gmail.com
        
 <h4>/ᐠ｡ꞈ｡ᐟ\</h4>
 <!--
